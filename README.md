@@ -1,4 +1,3 @@
-Complete Ruby on rails developer.. track changes
-
+This is the trial of alpha project.......
 
 
